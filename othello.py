@@ -3,6 +3,7 @@ import pickle
 from copy import deepcopy
 from datetime import datetime
 
+# TODO: ダイエット
 class Othello3D():
   COLOR1 = 1
   COLOR2 = -1
@@ -128,7 +129,7 @@ class Othello3D():
 
 
   # **************************************** reverse function ****************************************
-  # TODO: すっきりさせる
+  # TODO: DRYを守る
   def reverse(self):
     reversed_flg = False
     x = self.pointer['x']
