@@ -5,3 +5,9 @@ PL9823を用いた3次元オセロ。
 <img src="https://github.com/0g3/locube/blob/master/img/playing.JPG"> 
 
 <img src="https://github.com/0g3/locube/blob/master/img/presenboard.png"> 
+
+Team Member
+---
+* It's me!
+* https://github.com/Nagisa-Takeuchi
+
